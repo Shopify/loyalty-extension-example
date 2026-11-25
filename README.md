@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived and receives no updates or security fixes.
+
 # Shopify App Example: POS Loyalty App Example use UI Extensions
 
 This repo contains an example app that uses POS UI Extensions to create an app that tracks loyalty points and redeem them at the point of sale.
